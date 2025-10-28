@@ -1,4 +1,4 @@
 # telegram-reporting-bot
-<p align="center"><img src="logo.png" width="150px" height="350px" alt="insta logo"></p>
+<p align="center"><img src="logo.png" width="300px" height="350px" alt="insta logo"></p>
 <div align="center">
-TG: https://t.me/tiktokrepo
+TG:  https://t.me/telegrepo
